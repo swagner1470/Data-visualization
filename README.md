@@ -10,8 +10,9 @@ Tables are not always included in data visualization guides or documents, but I 
 - A key for most visualization is clean data, take your time and make sure you have properly prepared your data for the work you want to do
 - Make sure you have variables measured at the correct unit of analysis. This is more of a data preparation tip, but visualization will make it blatant if you are presenting variables measured at different units of analysis together
 
+When making tables for presenting, avoid using too many separation lines, but also try to avoid huge chunks of white space. This can be a tricky balance when you are starting out. One way to help you hone this skill is to take note of tables you come across whether in your job, university posts, or articles you are reading. If you are not able to immediately tell what the information they are presenting is and what they are trying to convey with that information, see if you can find out why. Are there too many variables without clear labels? Does the table have too much use of contrast and bold? Are the margins within the table consisten? Does the table have clear headers and labels? Those are a few questions to ask yourself. 
 
-##Plots
+## Plots
 Picking the right plot type can be difficult for new analysts. There are use cases for just about any kind of relationship you want to visualize. You can also choose multiple types of plots for each type of relationship. That being said, there are some plots that make the relationships you wish to present more convoluted or are excessive for your needs. Below is a basic table that I hope you find helpful. 
 
 | Data type     | Plot type |
