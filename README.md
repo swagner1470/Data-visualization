@@ -1,6 +1,8 @@
 # Data visualization
 
-data visualization is typically the final step in your analysis. To have a figure that is easily readable, conveys information succinctly, and is not too overwhelming is the goal. In order to accomplish that task, your data must be cleaned, your data must be structured how you wish to present it, and your analysis must be complete. This guide will for the most part assume that those three steps are complete, though we will include a bit of all three at times. 
+This is a work in progress and is intended for my social science students but will hopefully have general applications to anyone coming across it. 
+
+Data visualization is typically the final step in your analysis. To have a figure that is easily readable, conveys information succinctly, and is not too overwhelming is the goal. In order to accomplish that task, your data must be cleaned, your data must be structured how you wish to present it, and your analysis must be complete. This guide will for the most part assume that those three steps are complete, though we will include a bit of all three at times. 
 
 ## Tables
 Tables are not always included in data visualization guides or documents, but I find it to be just as important as plots. There are many uses where tables convery the information more clearly than a plot. Just as with plots, tables can become very difficult to parse if you are not clear in what information you want to convey and how you want to convey it. Many of you will have seen landscape regression tables with tiny text and every single covariate listed that become an endevor just to see if they allign with the author's interpretation of their test. A few tips for creating readable tables. 
